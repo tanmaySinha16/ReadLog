@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179785370674",
+    "project_id": "readlog-27d7a",
+    "storage_bucket": "readlog-27d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179785370674:android:f974f17ad1587d6fba402b",
+        "android_client_info": {
+          "package_name": "com.example.readlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179785370674-de48i9r8qfrgjmr9h5ofhpvlj36bdmh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADcQjNpDLrsc-M316FEaCMr-0CeAHg5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179785370674-de48i9r8qfrgjmr9h5ofhpvlj36bdmh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
