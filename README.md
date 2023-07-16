@@ -22,7 +22,7 @@ The app follows the Clean Architecture principles for its design and is built us
 
 ### Screenshots :
 #### Main Screen
-   <img src="[https://res.cloudinary.com/dixttklud/image/upload/v1685786772/Mausam/WhatsApp_Image_2023-06-03_at_15.34.49_awdphh.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;](https://res.cloudinary.com/dixttklud/image/upload/v1689508449/ReadLog/Screenshot_20230716-170758_ReadLog_h91ujl.jpg)">
+   <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786772/Mausam/WhatsApp_Image_2023-06-03_at_15.34.49_awdphh.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
   
 #### Favourites Screen
   <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786773/Mausam/favourites_vqrzej.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
