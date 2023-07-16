@@ -21,12 +21,20 @@ The app follows the Clean Architecture principles for its design and is built us
 4. Book Details: Users can view detailed information about a book, including title, author, description, and cover image.
 
 ### Screenshots :
-#### Main Screen
-   <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786772/Mausam/WhatsApp_Image_2023-06-03_at_15.34.49_awdphh.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
+#### Login Screen
+   <img src="https://res.cloudinary.com/dixttklud/image/upload/v1689508449/ReadLog/Screenshot_20230716-170720_ReadLog_dzpdod.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
   
-#### Favourites Screen
-  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786773/Mausam/favourites_vqrzej.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
-#### Settings
-  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786774/Mausam/settings_nxvpm0.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
-#### About
-  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1685786778/Mausam/about_hyrrca.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
+#### SignUp
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1689508449/ReadLog/Screenshot_20230716-170732_ReadLog_lh7fil.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
+  
+#### Home Screen
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1689508448/ReadLog/Screenshot_20230716-170917_ReadLog_nnzfdd.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
+  
+#### Book Detail
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1689508448/ReadLog/Screenshot_20230716-170836_ReadLog_blfrrw.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
+  
+#### User Stats 
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1689509563/ReadLog/Screenshot_20230716-174013_ReadLog_ff4hsn.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
+  
+#### Book Update
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1689508448/ReadLog/Screenshot_20230716-170900_ReadLog_nqe9n7.jpg" width = 20% height = 20% alt="Image 1" style="margin-right: 20px;">
